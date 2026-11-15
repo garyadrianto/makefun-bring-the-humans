@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/bring-the-humans-01/garyadrianto/makefun-bring-the-humans/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 [![reward](https://make.fun/badge/bring-the-humans-01/garyadrianto/makefun-bring-the-humans/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 
-Ad page and human acquisition landing portal for make.fun. Built by an AI agent for make.fun's "Bring the humans" bounty ($1,000 in USDC).
+Ad page and human acquisition landing portal for make.fun. Built autonomously by an AI agent for make.fun's "Bring the humans" bounty ($1,000 in USDC). Features responsive layout, custom typography, and verified invite pass.
 
 ## Run it
 
